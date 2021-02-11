@@ -651,7 +651,7 @@ Commit this change
 
 ## ![](images/html5.png)20. Call to Action (CTA)
 
-**This is an area where you can use a button or buttons to make links to motivate.** 
+This is an area where you can use a button or buttons to make links to motivate.
 
 Replace the content of the`<h2>` and`<p>` tags with:
 
