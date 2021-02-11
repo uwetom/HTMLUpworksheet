@@ -6,7 +6,7 @@
 ---
 
 
-![](images/html5.png)
+![](images/html5.png) 
 
 
 
@@ -14,7 +14,7 @@
 
 This guide will show you how to use an HTML5 UP template to create a website, the HTML 5 symbol will be used when we are writing code.
 
-![octocat](images/octocat.png)
+![octocat](images/octocat.png) 
 
 You will also learn how to save your project and all the changes you make to GitHub. The Octocat symbol will be used when we are interacting with our repository.
 
@@ -48,13 +48,13 @@ Open **GitHub desktop** and Sign in (create an account if you haven’t got one 
 
 Choose **Create a New Repository on your hard drive**
 
-![](images/createNew.jpg)
+![](images/createNew.jpg) 
 
 Set the name to be "**Spectral-Alpacas**" and the description to "**HTML5 Alpaca website**"
 
 Choose a suitable location on your hard drive and click **Create repository**.
 
-![](images/create.jpg)
+![](images/create.jpg) 
 
 #### You have Just Created a new local repository!
 
@@ -67,7 +67,7 @@ Choose a suitable location on your hard drive and click **Create repository**.
 
 At the bottom right of the screen Click **Show in Finder** (**show in Explorer** on a PC), this will take you to where the repository is stored on your computer. 
 
-![](images/show.jpg)
+![](images/show.jpg) 
 
 You should see a folder called **Spectral-Alpacas,** this is where you will put your all the code and assets for this worksheet.
 
@@ -81,7 +81,7 @@ Go to https://html5up.net/
 
 Scroll down to Spectral and click “**Free Download**” 
 
-![](images/spectral.jpg)
+![](images/spectral.jpg) 
 
 *You can use another template for your coursework, but for this worksheet we will be using Spectral*
 
@@ -89,7 +89,7 @@ Scroll down to Spectral and click “**Free Download**”
 
 You should now have a folder called **Spectral-Alpacas** which contains the following files:
 
-![](images/folder.jpg)
+![](images/folder.jpg) 
 
 
 
@@ -104,7 +104,7 @@ On the right you will see what has changed in each of those files.
 
 
 
-![](images/initial_commit.jpg)
+![](images/initial_commit.jpg) 
 
 
 
@@ -121,7 +121,7 @@ Write "**initial commit**" in the summary field and press **Commit to master.**
 ## ![octocat](images/octocat.png)5. Publish your repository
 Press **Publish Repository**
 
-![](images\publish.jpg)
+![](images\publish.jpg) 
 
 This will upload your files to your account on GitHub.com
 
@@ -134,7 +134,7 @@ This will upload your files to your account on GitHub.com
 ## ![octocat](images/octocat.png)6. View your repository on GitHub
 Click on **View on GitHub**
 
-![](images/view.jpg)
+![](images/view.jpg) 
 
 This will open a browser window and show you your repository on Github.com
 
@@ -175,7 +175,7 @@ to:
 
 **Refresh your browser to see the change** 
 
-![](images/alpacas_title.jpg)
+![](images/alpacas_title.jpg) 
 
 
 
@@ -196,7 +196,7 @@ to:
 
 Press Commit to Master to add this change to your local repository
 
-![](images/commit.jpg)
+![](images/commit.jpg) 
 
 We will wait to push to the remote repository until we have a few more changes.
 
@@ -238,7 +238,7 @@ to:
 
 Commit this change to your local repository as you did before
 
-![](images/commit.jpg)
+![](images/commit.jpg) 
 
 
 
@@ -297,7 +297,7 @@ Refresh the browser to see your changes
 
 
 
-![octocat](images/octocat.png)
+![octocat](images/octocat.png) 
 
 Commit this change to your local repository as you did before, adding a suitable summary message
 
@@ -358,11 +358,11 @@ Save and refresh
 
 
 
-![octocat](images/octocat.png)
+![octocat](images/octocat.png) 
 
 Commit this change to your local repository as you did before
 
-![](images/commit.jpg)
+![](images/commit.jpg) 
 
 
 
@@ -376,13 +376,13 @@ However, this means that your **remote repository** is now out of sync.
 
 Go to GitHub desktop and press **Push origin**
 
-![push](images\push.jpg)
+![push](images\push.jpg) 
 
 Your **local** changes have now been sent to the **remote repository** where they are safely stored 
 
 To see the files on github.com click "**view on Github**"
 
-![view](images/view.jpg)
+![view](images/view.jpg) 
 
 
 
@@ -418,11 +418,11 @@ comment them out:
 
 
 
-![octocat](images/octocat.png)
+![octocat](images/octocat.png) 
 
 Commit this change to your local repository as you did before
 
-![](images/commit.jpg)
+![](images/commit.jpg) 
 
 
 
@@ -440,7 +440,7 @@ We can remove individual commits from our repository. This can be very useful if
 
 On GitHub desktop, click on the history tab 
 
-![history](images/history.jpg)
+![history](images/history.jpg) 
 
 Scroll down and select the commit you made when you added "**Lamas are cool**".
 
@@ -448,7 +448,7 @@ It should be called **"Changed H1 contents"**
 
 Right click and select **Revert this commit** 
 
-![revert](images/revert.jpg)
+![revert](images/revert.jpg) 
 
 Go back to the Changes tab and press **Push origin**
 
@@ -474,13 +474,13 @@ to:
 
 
 
-![octocat](images/octocat.png)
+![octocat](images/octocat.png) 
 
 
 
 Commit this change to your local repository as you did before
 
-![](images/commit.jpg)
+![](images/commit.jpg) 
 
 
 
@@ -551,11 +551,11 @@ if it looks strange, go back and make sure you have the correct opening and clos
 
 
 
-![octocat](images/octocat.png)
+![octocat](images/octocat.png) 
 
 Commit this change to your local repository as you did before
 
-![](images/commit.jpg)
+![](images/commit.jpg) 
 
 
 
@@ -607,15 +607,15 @@ Refresh your browser
 
 
 
-![octocat](images/octocat.png)
+![octocat](images/octocat.png) 
 
 Commit this change
 
-![](images/commit.jpg)
+![](images/commit.jpg) 
 
 Push to origin
 
-![](images/push.jpg)
+![](images/push.jpg) 
 
 
 
@@ -641,11 +641,11 @@ save and refresh and check it has worked on the browser
 
 
 
-![octocat](images/octocat.png)
+![octocat](images/octocat.png) 
 
 Commit this change
 
-![](images/commit.jpg)
+![](images/commit.jpg) 
 
 ---
 
@@ -689,11 +689,11 @@ to:
 
 
 
-![octocat](images/octocat.png)
+![octocat](images/octocat.png) 
 
 Commit this change
 
-![](images/commit.jpg)
+![](images/commit.jpg) 
 
 
 
@@ -707,7 +707,7 @@ elements.html contains lots of useful elements such as forms, buttons and tables
 
 Open elements.html in your web browser and look at the buttons half way down the page
 
-![](images/elements.jpg)
+![](images/elements.jpg) 
 
 Next open elements.html in your code editor and find the html code for one of the buttons (you choose which one)
 
@@ -715,11 +715,11 @@ Copy the code into your index.html file bellow the Heifer Project button you cre
 
  
 
-![octocat](images/octocat.png)
+![octocat](images/octocat.png) 
 
 Commit this change
 
-![](images/commit.jpg)
+![](images/commit.jpg) 
 
 
 
@@ -741,15 +741,15 @@ Rename this image as **banner.jpg** and place it in the images folder, overwriti
 
 
 
-![octocat](images/octocat.png)
+![octocat](images/octocat.png) 
 
 Commit this change
 
-![](images/commit.jpg)
+![](images/commit.jpg) 
 
 Push to origin
 
-![](images/push.jpg)
+![](images/push.jpg) 
 
 
 
@@ -799,17 +799,57 @@ Now test out your link. In your browser, click on the history link and see if it
 
 
 
-![octocat](images/octocat.png)
+![octocat](images/octocat.png) 
 
 Commit this change
 
-![](images/commit.jpg)
+![](images/commit.jpg) 
 
 
 
 Push to origin
 
-![](images/push.jpg)
+![](images/push.jpg) 
+
+
+
+---
+
+## 24. Publish site on GitHub pages
+
+![octocat](images/octocat.png) 
+
+
+
+Now that we have the majority of the site finished we can publish it.
+
+You could put all your code on the panel server for everyone to see. However, there is really clever way to do it though GitHub, and as your code has already been uploaded it is just a matter of turning it on.
+
+On GitHub desktop press **View on GitHub**
+
+![view](C:\Users\t-garne\OneDrive - UWE Bristol (Staff)\Creative-technology\digital_media\web_design\2020-2021\github_html5_up\github\HTMLUpworksheet\images\view.jpg) 
+
+On GitHub press "settings"
+
+
+
+![settings](images\settings.JPG) 
+
+
+
+Next you need to make sure your repository is public, at the very bottom, press the Change visibility button and follow the instructions to make your repository public.
+
+![visibility](images\visibility.JPG) 
+
+Next you need to turn on GitHub pages,  half way down, in the gitHub pages section, select the drop down that says **None** and change it to **Master**
+
+![pages](images\pages.JPG) 
+
+Your site is now live! you can find the link by going back to the GitHub pages section (the first time you visit you may need to add "index.html" to the end of the link to get it to show up)
+
+![githublink](images\githublink.JPG) 
+
+
 
 
 
@@ -823,7 +863,7 @@ Push to origin
 
 Well, there you have it. We have a brand new website about alpacas, ready to go. For this tutorial, we mainly dealt with the html, focusing on some aspects that you might encounter when you work on your own html template.
 
-![octocat](images/octocat.png)
+![octocat](images/octocat.png) 
 
 You have also successfully used Git and GitHub to save your work to a local repository on your computer and pushed it to a remote repository on GitHub.
 
