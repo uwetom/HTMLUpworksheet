@@ -40,24 +40,24 @@ Open **GitHub desktop** and Sign in (create an account if you haven’t got one 
 
 Choose **Create a New Repository on your hard drive**
 
-![](images\createNew.jpg)
+![](images/createNew.jpg)
 
 Set the name to be "**Spectral-Alpacas**" and the description to "**HTML5 Alpaca website**"
 
 Choose a suitable location on your hard drive and click **Create repository**.
 
-![](images\create.jpg)
+![](images/create.jpg)
 
 #### You have Just Created a new local repository!
 
 ---
 
 ## 2. Open the repository folder
-![octocat](images\octocat.png)
+![octocat](images/octocat.png)
 
 At the bottom right of the screen Click **Show in Finder** (**show in Explorer** on a PC), this will take you to where the repository is stored on your computer. 
 
-![](images\show.jpg)
+![](images/show.jpg)
 
 You should see a folder called **Spectral-Alpacas,** this is where you will put your all the code and assets for this worksheet.
 
@@ -65,13 +65,13 @@ You should see a folder called **Spectral-Alpacas,** this is where you will put 
 
 ##  3. Download the Spectral template from HTML5 UP
 
-![](images\html5.png)
+![](images/html5.png)
 
 Go to https://html5up.net/
 
 Scroll down to Spectral and click “**Free Download**” 
 
-![](images\spectral.jpg)
+![](images/spectral.jpg)
 
 *You can use another template for your coursework, but for this worksheet we will be using Spectral*
 
@@ -79,7 +79,7 @@ Scroll down to Spectral and click “**Free Download**”
 
 You should now have a folder called **Spectral-Alpacas** which contains the following files:
 
-![](images\folder.jpg)
+![](images/folder.jpg)
 
 ---
 
@@ -94,7 +94,7 @@ On the right you will see what has changed in each of those files.
 
 
 
-![](images\initial_commit.jpg)
+![](images/initial_commit.jpg)
 
 
 
@@ -107,7 +107,7 @@ Write "**initial commit**" in the summary field and press **Commit to master.**
 ---
 
 ## 5. Publish your repository
-![octocat](images\octocat.png)
+![octocat](images/octocat.png)
 
 Press **Publish Repository**
 
@@ -122,11 +122,11 @@ This will upload your files to your account on GitHub.com
 ---
 
 ## 6. View your repository on GitHub
-![octocat](images\octocat.png)
+![octocat](images/octocat.png)
 
 Click on **View on GitHub**
 
-![](images\view.jpg)
+![](images/view.jpg)
 
 This will open a browser window and show you your repository on Github.com
 
@@ -143,7 +143,7 @@ Throughout the rest of this worksheet we will be making changes to our files on 
 
 
 ## 7. Edit the title
-![](images\html5.png)
+![](images/html5.png)
 
 Phew, now that we have setup GitHub we can now start editing the code.
 
@@ -169,14 +169,14 @@ to:
 
 **Refresh your browser to see the change** 
 
-![](images\alpacas_title.jpg)
+![](images/alpacas_title.jpg)
 
 
 
 ---
 
 ## 8. Commit changes
-![octocat](images\octocat.png)
+![octocat](images/octocat.png)
 
 Now look at GitHub desktop, it will show you what you have changed.
 
@@ -192,7 +192,7 @@ to:
 
 Press Commit to Master to add this change to your local repository
 
-![](images\commit.jpg)
+![](images/commit.jpg)
 
 We will wait to push to the remote repository until we have a few more changes.
 
@@ -201,7 +201,7 @@ We will wait to push to the remote repository until we have a few more changes.
 ---
 
 ## 9. Change the main heading
-![](images\html5.png)
+![](images/html5.png)
 
 
 
@@ -228,7 +228,7 @@ Refresh your browser and find what has changed (HINT: you may need to scroll)
 ---
 
 ## 10. Commit changes on GitHub desktop
-![octocat](images\octocat.png)
+![octocat](images/octocat.png)
 
 Change the summary message from:
 
@@ -240,14 +240,14 @@ to:
 
 Commit this change to your local repository as you did before
 
-![](images\commit.jpg)
+![](images/commit.jpg)
 
 
 
 ---
 
 ## 11. Change the menu
-![](images\html5.png)
+![](images/html5.png)
 
 We are going to make a few text changes to the main menu.
 
