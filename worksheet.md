@@ -5,16 +5,11 @@
 
 ---
 
-
-![](images/html5.png) 
-
-
-
-
+<img src="images/html5.png" style="zoom:50%;" /> 
 
 This guide will show you how to use an HTML5 UP template to create a website, the HTML 5 symbol will be used when we are writing code.
 
-![octocat](images/octocat.png) 
+<img src="images/octocat.png" alt="octocat" style="zoom:50%;" /> 
 
 You will also learn how to save your project and all the changes you make to GitHub. The Octocat symbol will be used when we are interacting with our repository.
 
@@ -39,9 +34,13 @@ You will also learn how to save your project and all the changes you make to Git
 
 #### Get comfy. Lets begin
 
+
+
+<div style="page-break-after: always; break-after: page;"></div>
+
 ---
 
-## ![octocat](images/octocat.png)1. Create a new repository
+## <img src="images/octocat.png" alt="octocat" style="zoom:50%;" />1. Create a new repository
 
 
 Open **GitHub desktop** and Sign in (create an account if you haven’t got one already).
@@ -60,9 +59,17 @@ Choose a suitable location on your hard drive and click **Create repository**.
 
 
 
+
+
+
+
+
+
+<div style="page-break-after: always; break-after: page;"></div>
+
 ---
 
-## ![octocat](images/octocat.png)2. Open the repository folder
+## <img src="images/octocat.png" alt="octocat" style="zoom:50%;" />2. Open the repository folder
 
 
 At the bottom right of the screen Click **Show in Finder** (**show in Explorer** on a PC), this will take you to where the repository is stored on your computer. 
@@ -71,11 +78,11 @@ At the bottom right of the screen Click **Show in Finder** (**show in Explorer**
 
 You should see a folder called **Spectral-Alpacas,** this is where you will put your all the code and assets for this worksheet.
 
-
+<div style="page-break-after: always; break-after: page;"></div>
 
 ---
 
-##  ![](images/html5.png)3. Download the Spectral template from HTML5 UP
+##  <img src="images/html5.png" style="zoom:50%;" />3. Download the template
 
 Go to https://html5up.net/
 
@@ -91,11 +98,11 @@ You should now have a folder called **Spectral-Alpacas** which contains the foll
 
 ![](images/folder.jpg) 
 
-
+<div style="page-break-after: always; break-after: page;"></div>
 
 ---
 
-## ![octocat](images/octocat.png)4. Commit the code to your local repository
+## <img src="images/octocat.png" alt="octocat" style="zoom:50%;" />4. Commit the code to your local repository
 On **GitHub desktop** you should now see a list of all the files you have added.
 
 On the left you will see the files.
@@ -114,11 +121,11 @@ Write "**initial commit**" in the summary field and press **Commit to master.**
 
 #### You have now committed your code to your **local repository**!
 
-
+<div style="page-break-after: always; break-after: page;"></div>
 
 ---
 
-## ![octocat](images/octocat.png)5. Publish your repository
+## <img src="images/octocat.png" alt="octocat" style="zoom:50%;" />5. Publish your repository
 Press **Publish Repository**
 
 ![](images\publish.jpg) 
@@ -131,7 +138,7 @@ This will upload your files to your account on GitHub.com
 
 ---
 
-## ![octocat](images/octocat.png)6. View your repository on GitHub
+## <img src="images/octocat.png" alt="octocat" style="zoom:50%;" />6. View your repository on GitHub
 Click on **View on GitHub**
 
 ![](images/view.jpg) 
@@ -144,13 +151,13 @@ You can also share your code with others and see exactly what changes have been 
 
 Throughout the rest of this worksheet we will be making changes to our files on our machines, committing those changes to the **local repository** and then pushing to the **remote repository**. This way we make sure our remote repository is kept up to date.
 
-
+<div style="page-break-after: always; break-after: page;"></div>
 
 ---
 
 
 
-## ![](images/html5.png)7. Edit the title
+## <img src="images/html5.png" style="zoom:50%;" />7. Edit the title
 Phew, now that we have setup GitHub we can now start editing the code.
 
 Open **index.html** on your web browser.
@@ -177,11 +184,11 @@ to:
 
 ![](images/alpacas_title.jpg) 
 
-
+<div style="page-break-after: always; break-after: page;"></div>
 
 ---
 
-## ![octocat](images/octocat.png)8. Commit changes
+## <img src="images/octocat.png" alt="octocat" style="zoom:50%;" />8. Commit changes
 Now look at GitHub desktop, it will show you what you have changed.
 
 This is only a small change but we will add it to our repository
@@ -204,7 +211,7 @@ We will wait to push to the remote repository until we have a few more changes.
 
 ---
 
-## ![](images/html5.png)9. Change the main heading
+## <img src="images/html5.png" style="zoom:50%;" />9. Change the main heading
 The main heading of a page is in the heading tag
 
 `<header id="header" class="alt"> `
@@ -223,11 +230,11 @@ Save
 
 Refresh your browser and find what has changed (HINT: you may need to scroll)
 
-
+<div style="page-break-after: always; break-after: page;"></div>
 
 ---
 
-## ![octocat](images/octocat.png)10. Commit changes on GitHub desktop
+## <img src="images/octocat.png" alt="octocat" style="zoom:50%;" />10. Commit changes on GitHub desktop
 Change the summary message from:
 
 `Update index.html!`
@@ -240,18 +247,16 @@ Commit this change to your local repository as you did before
 
 ![](images/commit.jpg) 
 
-
+<div style="page-break-after: always; break-after: page;"></div>
 
 ---
 
-## ![](images/html5.png)11. Change the menu
+## <img src="images/html5.png" style="zoom:50%;" />11. Change the menu
 We are going to make a few text changes to the main menu.
 
 `<div id="menu">`
 
-Look at the menu in your browser before you make the changes.
-
-Then find it in the code and see how it is structured. 
+Look at the menu in your browser before you make the changes. Then find it in the code and see how it is structured. 
 
 `<li >` is a list item.
 
@@ -259,11 +264,9 @@ Then find it in the code and see how it is structured.
 
 `#` is a local link, it doesn't go anywhere
 
-First let’s remove some of the  items. and change the text on others.  
+First let’s remove some of the  items. and change the text on others.  for now we will link them to the generic page template. `generic.html`
 
-Right now we will link them to the generic page template. 
-
-change:
+Change:
 
 ```html
 <div id="menu">
@@ -295,19 +298,15 @@ Save
 
 Refresh the browser to see your changes
 
+<img src="images/octocat.png" alt="octocat" style="zoom:50%;" /> Commit this change to your local repository as you did before, adding a summary message
 
+![](images/commit.jpg) 
 
-![octocat](images/octocat.png) 
-
-Commit this change to your local repository as you did before, adding a suitable summary message
-
-![](images/commit.jpg)
-
-
+<div style="page-break-after: always; break-after: page;"></div>
 
 ---
 
-## ![](images/html5.png)12. Change the banner
+## <img src="images/html5.png" style="zoom:50%;" />12. Change the banner
 
 Have a look at how this section works. We are going to personalise this a bit and make it more on concept.
 
@@ -325,8 +324,6 @@ We currently have:
  	<a href="#one" class="more scrolly">Learn More</a> 
 </section> 
 ```
-
-
 
 Change the header from:
 
@@ -356,19 +353,15 @@ to
 
 Save and refresh
 
-
-
-![octocat](images/octocat.png) 
-
-Commit this change to your local repository as you did before
+<img src="images/octocat.png" alt="octocat" style="zoom:50%;" /> Commit this change to your local repository as you did before
 
 ![](images/commit.jpg) 
 
-
+<div style="page-break-after: always; break-after: page;"></div>
 
 ---
 
-## ![octocat](images/octocat.png)13. Publish
+## <img src="images/octocat.png" alt="octocat" style="zoom:50%;" />13. Publish
 
 You have now made a few commits to your **local repository**. 
 
@@ -384,11 +377,11 @@ To see the files on github.com click "**view on Github**"
 
 ![view](images/view.jpg) 
 
-
+<div style="page-break-after: always; break-after: page;"></div>
 
 ---
 
-## ![](images/html5.png)14. Edit section One
+## <img src="images/html5.png" style="zoom:50%;" />14. Edit section One
 
 In HTML you can write a comment by using the angle brackets with an exclamation mark.
 
@@ -418,17 +411,15 @@ comment them out:
 
 
 
-![octocat](images/octocat.png) 
-
-Commit this change to your local repository as you did before
+<img src="images/octocat.png" alt="octocat" style="zoom:50%;" /> Commit this change to your local repository as you did before
 
 ![](images/commit.jpg) 
 
-
+<div style="page-break-after: always; break-after: page;"></div>
 
 ---
 
-## ![octocat](images/octocat.png)15. Revert a mistake
+## <img src="images/octocat.png" alt="octocat" style="zoom:50%;" />15. Revert a mistake
 
 ### We have made a mistake...
 
@@ -456,11 +447,11 @@ Go back to the Changes tab and press **Push origin**
 
 If you refresh your browser, it should now display the old header
 
-
+<div style="page-break-after: always; break-after: page;"></div>
 
 ---
 
-## ![](images/html5.png)16. Changer the header (again)
+## <img src="images/html5.png" style="zoom:50%;" />16. Changer the header (again)
 
 Now go back to the header at the top and change the H1 tag again
 
@@ -474,21 +465,17 @@ to:
 
 
 
-![octocat](images/octocat.png) 
-
-
-
-Commit this change to your local repository as you did before
+<img src="images/octocat.png" alt="octocat" style="zoom:50%;" /> Commit this change to your local repository as you did before
 
 ![](images/commit.jpg) 
 
-
+<div style="page-break-after: always; break-after: page;"></div>
 
 ---
 
  
 
-## ![](images/html5.png)17. Section Two
+## <img src="images/html5.png" style="zoom:50%;" />17. Section Two
 
 Section two is wrapped in a `<section>` tag with an id of "**two**"
 
@@ -549,19 +536,15 @@ Refresh you browser to see what you have.
 
 if it looks strange, go back and make sure you have the correct opening and closing tags for each section
 
-
-
-![octocat](images/octocat.png) 
-
-Commit this change to your local repository as you did before
+<img src="images/octocat.png" alt="octocat" style="zoom:50%;" /> Commit this change to your local repository as you did before
 
 ![](images/commit.jpg) 
 
-
+<div style="page-break-after: always; break-after: page;"></div>
 
 ---
 
-## ![](images/html5.png)18. Images
+## <img src="images/html5.png" style="zoom:50%;" />18. Images
 
 We now want to replace the image for each of the spotlight sections
 
@@ -583,8 +566,6 @@ Alternatively, you can open the image in photoshop and choose **image>image size
 
 Now that you know the size, you can make sure any replacement images are the same size.
 
-
-
 On blackboard there are five zipped up alpaca images that are the right size (**spotlight_images.zip**).  download and unzip this file.
 
 Place the alpaca images in the same folder as the original images
@@ -605,11 +586,7 @@ Save,
 
 Refresh your browser
 
-
-
-![octocat](images/octocat.png) 
-
-Commit this change
+<img src="images/octocat.png" alt="octocat" style="zoom:50%;" /> Commit this change
 
 ![](images/commit.jpg) 
 
@@ -617,11 +594,11 @@ Push to origin
 
 ![](images/push.jpg) 
 
-
+<div style="page-break-after: always; break-after: page;"></div>
 
 ---
 
-## ![](images/html5.png)19. Remove un-wanted section
+## <img src="images/html5.png" style="zoom:50%;" />19. Remove un-wanted section
 
 We don't want everything in this template, therefore we are going to remove the next section.
 
@@ -641,15 +618,15 @@ save and refresh and check it has worked on the browser
 
 
 
-![octocat](images/octocat.png) 
-
-Commit this change
+<img src="images/octocat.png" alt="octocat" style="zoom:50%;" /> Commit this change
 
 ![](images/commit.jpg) 
 
+<div style="page-break-after: always; break-after: page;"></div>
+
 ---
 
-## ![](images/html5.png)20. Call to Action (CTA)
+## <img src="images/html5.png" style="zoom:50%;" />20. Call to Action (CTA)
 
 This is an area where you can use a button or buttons to make links to motivate.
 
@@ -689,17 +666,15 @@ to:
 
 
 
-![octocat](images/octocat.png) 
-
-Commit this change
+<img src="images/octocat.png" alt="octocat" style="zoom:50%;" /> Commit this change
 
 ![](images/commit.jpg) 
 
-
+<div style="page-break-after: always; break-after: page;"></div>
 
 ---
 
-## ![](images/html5.png)21. Elements
+## <img src="images/html5.png" style="zoom:50%;" />21. Elements
 
 In the same folder as index.html you will find two other html files.
 
@@ -715,17 +690,15 @@ Copy the code into your index.html file bellow the Heifer Project button you cre
 
  
 
-![octocat](images/octocat.png) 
-
-Commit this change
+<img src="images/octocat.png" alt="octocat" style="zoom:50%;" /> Commit this change
 
 ![](images/commit.jpg) 
 
-
+<div style="page-break-after: always; break-after: page;"></div>
 
 ---
 
-## ![](images/html5.png)22. Banner
+## <img src="images/html5.png" style="zoom:50%;" />22. Banner
 
 So right now we have been dealing with a gradient background as the top image and then again at the bottom. This is the .jpg called banner
 
@@ -741,9 +714,7 @@ Rename this image as **banner.jpg** and place it in the images folder, overwriti
 
 
 
-![octocat](images/octocat.png) 
-
-Commit this change
+<img src="images/octocat.png" alt="octocat" style="zoom:50%;" /> Commit this change
 
 ![](images/commit.jpg) 
 
@@ -751,13 +722,11 @@ Push to origin
 
 ![](images/push.jpg) 
 
-
+<div style="page-break-after: always; break-after: page;"></div>
 
 ---
 
-
-
-## ![](images/html5.png)23. A New page
+## <img src="images/html5.png" style="zoom:50%;" />23. A New page
 
 So far we have been editing one page. We want to make another one.
 
@@ -797,53 +766,33 @@ to:
 
 Now test out your link. In your browser, click on the history link and see if it sends you to your  new history page.
 
-
-
-![octocat](images/octocat.png) 
-
-Commit this change
+<img src="images/octocat.png" alt="octocat" style="zoom:50%;" /> Commit this change
 
 ![](images/commit.jpg) 
-
-
 
 Push to origin
 
 ![](images/push.jpg) 
 
-
+<div style="page-break-after: always; break-after: page;"></div>
 
 ---
 
-## 24. Publish site on GitHub pages
-
-![octocat](images/octocat.png) 
-
-
+## <img src="images/octocat.png" alt="octocat" style="zoom:50%;" />24. Publish site on GitHub pages
 
 Now that we have the majority of the site finished we can publish it.
 
 You could put all your code on the panel server for everyone to see. However, there is really clever way to do it though GitHub, and as your code has already been uploaded it is just a matter of turning it on.
 
-On GitHub desktop press **View on GitHub**
-
-![view](C:\Users\t-garne\OneDrive - UWE Bristol (Staff)\Creative-technology\digital_media\web_design\2020-2021\github_html5_up\github\HTMLUpworksheet\images\view.jpg) 
+On GitHub desktop press **View on GitHub**![view](images\view.jpg) 
 
 On GitHub press "settings"
 
-
-
-![settings](images\settings.JPG) 
-
-
-
-Next you need to make sure your repository is public, at the very bottom, press the Change visibility button and follow the instructions to make your repository public.
-
-![visibility](images\visibility.JPG) 
+<img src="images\settings.JPG" alt="settings" style="zoom: 67%;" /> 
 
 Next you need to turn on GitHub pages,  half way down, in the gitHub pages section, select the drop down that says **None** and change it to **Master**
 
-![pages](images\pages.JPG) 
+<img src="images\pages.JPG" alt="pages" style="zoom: 67%;" /> 
 
 Your site is now live! you can find the link by going back to the GitHub pages section (the first time you visit you may need to add "index.html" to the end of the link to get it to show up)
 
@@ -857,13 +806,13 @@ Your site is now live! you can find the link by going back to the GitHub pages s
 
 ---
 
-
+<div style="page-break-after: always; break-after: page;"></div>
 
 ## FINISHED!
 
 Well, there you have it. We have a brand new website about alpacas, ready to go. For this tutorial, we mainly dealt with the html, focusing on some aspects that you might encounter when you work on your own html template.
 
-![octocat](images/octocat.png) 
+<img src="images/octocat.png" alt="octocat" style="zoom:50%;" /> 
 
 You have also successfully used Git and GitHub to save your work to a local repository on your computer and pushed it to a remote repository on GitHub.
 
@@ -873,7 +822,7 @@ If you now need the code on another machine you can now get all you source code 
 
 ## Extra Challenge
 
-### 24. Finish off the contact page
+### 25. Finish off the contact page
 
 We have added a contact page but have not added any content.
 
