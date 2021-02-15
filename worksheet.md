@@ -790,7 +790,11 @@ On GitHub press "settings"
 
 <img src="images\settings.JPG" alt="settings" style="zoom: 67%;" /> 
 
-Next you need to turn on GitHub pages,  half way down, in the gitHub pages section, select the drop down that says **None** and change it to **Master**
+First you need to set your repository to public, you can do this by changing the visibility at the bottom of the settings  page.
+
+![visibility](images\visibility.JPG)
+
+Next you need to turn on GitHub pages,  half way down, in the GitHub pages section, select the drop down that says **None** and change it to **Master**
 
 <img src="images\pages.JPG" alt="pages" style="zoom: 67%;" /> 
 
